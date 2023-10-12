@@ -1,0 +1,10 @@
+{
+    "fleet_button": {
+        "locator_type": "xpath",
+        "locator_value": "//*[@id=\"app\"]/div[1]/div[2]/div[1]/div[6]/span/button"
+    },
+    "connect_wallet_button": {
+        "locator_type": "xpath",
+        "locator_value": "button[title=\"Connect Wallet\"]"
+    }
+}
